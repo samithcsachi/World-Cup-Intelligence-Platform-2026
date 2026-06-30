@@ -8,6 +8,7 @@ dependencies = [
     "joblib>=1.5.3",
     "matplotlib>=3.11.0",
     "numpy>=2.5.0",
+    "optuna>=4.9.0",
     "pandas>=3.0.3",
     "penaltyblog>=1.11.0",
     "scikit-learn>=1.9.0",
