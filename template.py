@@ -183,8 +183,9 @@ FILES = [
     "notebooks/04_poisson_model.ipynb",
     "notebooks/05_dixon_coles.ipynb",
     "notebooks/06_xgboost.ipynb",
-    "notebooks/07_model_comparison.ipynb",
-    "notebooks/08_tournament_simulation.ipynb",
+    "notebooks/07_ensemble_model.ipynb",
+    "notebooks/08_model_comparison.ipynb",
+    "notebooks/09_tournament_simulation.ipynb",
 
     # Tests
     "tests/__init__.py",
